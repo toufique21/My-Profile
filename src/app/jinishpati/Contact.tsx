@@ -86,22 +86,22 @@ const Contact = () => {
 
           <div className="mt-7 space-y-3 text-sm">
             <a
-              href="mailto:hello@toufique.dev"
+              href="mailto:mht69996@gmail.com"
               className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
             >
               <span className="grid size-9 place-items-center rounded-lg bg-primary/10 text-primary">
                 <Mail className="size-4" />
               </span>
-              hello@toufique.dev
+              mht69996@gmail.com
             </a>
             <a
-              href="tel:+8801700000000"
+              href="tel:+880 1560 017734"
               className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
             >
               <span className="grid size-9 place-items-center rounded-lg bg-primary/10 text-primary">
                 <Phone className="size-4" />
               </span>
-              +880 1700 000000
+              +880 1560 017734
             </a>
           </div>
         </div>
